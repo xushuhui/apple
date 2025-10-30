@@ -1,4 +1,4 @@
-module github.com/smartwalle/apple
+module github.com/xushuhui/apple
 
 go 1.18
 

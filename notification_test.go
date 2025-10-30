@@ -1,7 +1,7 @@
 package apple_test
 
 import (
-	"github.com/smartwalle/apple"
+	"github.com/xushuhui/apple"
 	"testing"
 )
 

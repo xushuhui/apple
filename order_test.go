@@ -2,7 +2,7 @@ package apple_test
 
 import (
 	"encoding/json"
-	"github.com/smartwalle/apple"
+	"github.com/xushuhui/apple"
 	"testing"
 )
 

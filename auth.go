@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"errors"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/smartwalle/apple/internal/auth"
+	"github.com/xushuhui/apple/internal/auth"
 	"github.com/smartwalle/dbc"
 	"github.com/smartwalle/ngx"
 	"github.com/smartwalle/nsync/singleflight"

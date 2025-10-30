@@ -3,7 +3,7 @@ package apple
 import (
 	"fmt"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/smartwalle/apple/internal/storekit"
+	"github.com/xushuhui/apple/internal/storekit"
 	"net/url"
 )
 
